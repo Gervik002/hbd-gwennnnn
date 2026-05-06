@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // 2. Halus: Ganti instruksi amplop
             const envelopeInst = envelope.querySelector('.instruction');
-            envelopeInst.innerText = "Scroll ke bawah yaaa 👇";
+            envelopeInst.innerText = "Scroll ke bawah yaaa ada kue online hahah👇";
             envelopeInst.style.opacity = "1"; // Pastikan kelihatan
             
         } else {
